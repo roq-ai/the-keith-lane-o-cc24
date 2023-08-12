@@ -1,0 +1,1702 @@
+[
+  {
+    "funding_provider": [
+      {
+        "id": "a3437e1f-335d-47cf-bd7b-a47e6cf95588",
+        "funding_amount": 18297,
+        "general_terms": "Flexible repayment options",
+        "real_estate_type": "Residential properties",
+        "created_at": "2023-08-12T05:27:43.670Z",
+        "updated_at": "2023-08-12T05:27:26.163Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7ee3df29-97f4-4899-a888-1b9430b3019c",
+        "funding_amount": 73302,
+        "general_terms": "Competitive interest rates",
+        "real_estate_type": "Commercial properties",
+        "created_at": "2023-08-12T08:30:32.786Z",
+        "updated_at": "2023-08-12T00:22:10.730Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f708a0c2-e060-4ef3-a1de-d6e5014c1925",
+        "funding_amount": 74376,
+        "general_terms": "No collateral required",
+        "real_estate_type": "Industrial properties",
+        "created_at": "2023-08-12T05:39:47.854Z",
+        "updated_at": "2023-08-12T19:07:05.244Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "07a8767b-14b4-4984-a81c-3938f29f660b",
+        "funding_amount": 3863,
+        "general_terms": "Quick approval process",
+        "real_estate_type": "Vacant land",
+        "created_at": "2023-08-11T23:21:26.953Z",
+        "updated_at": "2023-08-12T15:51:32.010Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8329b6e5-82ab-4741-a3d6-762dc0f77f01",
+        "funding_amount": 76883,
+        "general_terms": "Dedicated relationship manager",
+        "real_estate_type": "Mixed-use properties",
+        "created_at": "2023-08-12T03:21:51.207Z",
+        "updated_at": "2023-08-11T21:26:43.826Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "finance_partner": [
+      {
+        "id": "0b9f82fb-e893-4227-bc7f-d6b70029cbcd",
+        "partnership_proposal": "Collaboration opportunity for mutual growth",
+        "created_at": "2023-08-12T05:20:45.974Z",
+        "updated_at": "2023-08-12T12:31:44.016Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "da76ed2a-bcac-4e36-a441-f445454b12ae",
+        "partnership_proposal": "Joint venture proposal for expanding market reach",
+        "created_at": "2023-08-11T23:51:30.590Z",
+        "updated_at": "2023-08-11T20:46:21.120Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "650cdf5f-13df-4422-b7df-950a224ffe90",
+        "partnership_proposal": "Strategic alliance proposal for innovative solutions",
+        "created_at": "2023-08-12T01:24:25.103Z",
+        "updated_at": "2023-08-12T08:56:46.398Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3412186e-e7e6-4540-afd0-e1c72eead219",
+        "partnership_proposal": "Investment partnership proposal for long-term success",
+        "created_at": "2023-08-11T21:13:12.622Z",
+        "updated_at": "2023-08-12T02:20:21.674Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c885e1aa-4ded-43fc-814f-c4012beb8523",
+        "partnership_proposal": "Co-development proposal for new product launch",
+        "created_at": "2023-08-12T09:18:19.792Z",
+        "updated_at": "2023-08-12T14:06:41.015Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "due_diligence": [
+      {
+        "id": "c967027b-1ac2-463f-bcfc-adc76704cf0d",
+        "document_name": "Financial Statements",
+        "created_at": "2023-08-12T17:24:15.795Z",
+        "updated_at": "2023-08-12T06:58:50.641Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "61267392-1610-4aba-a161-f26f86321eca",
+        "document_name": "Legal Contracts",
+        "created_at": "2023-08-12T13:43:17.075Z",
+        "updated_at": "2023-08-12T02:57:06.313Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c3e5800d-446b-4271-b8ad-9de0839b61f2",
+        "document_name": "Market Research Reports",
+        "created_at": "2023-08-12T15:53:29.264Z",
+        "updated_at": "2023-08-11T21:38:03.726Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "50724148-fd34-4ca6-840a-c3b83f3882cc",
+        "document_name": "Risk Assessment Analysis",
+        "created_at": "2023-08-12T15:13:28.310Z",
+        "updated_at": "2023-08-11T22:42:23.001Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9a2d0d2c-4c63-4290-98e1-77f94102acb3",
+        "document_name": "Intellectual Property Documentation",
+        "created_at": "2023-08-12T12:16:41.013Z",
+        "updated_at": "2023-08-12T04:33:48.612Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "fd541f92-4e29-4eba-ab1e-99b3a6a1307b",
+        "email": "Kenyatta_Cormier54@yahoo.com",
+        "firstName": "Toby",
+        "lastName": "Casper",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/34271016",
+        "tenantId": null
+      },
+      {
+        "reference": "de01291e-0c90-4290-bac1-aa6e233033f6",
+        "email": "Catalina_Rath@gmail.com",
+        "firstName": "Monserrat",
+        "lastName": "Collier-Bergstrom",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77640226",
+        "tenantId": null
+      },
+      {
+        "reference": "86bb042a-ba17-4632-897b-62901e4b3019",
+        "email": "Elta_Rogahn@yahoo.com",
+        "firstName": "Leo",
+        "lastName": "Batz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42539326",
+        "tenantId": null
+      },
+      {
+        "reference": "a69ca42d-2c62-4eeb-b512-aa341ee5e53e",
+        "email": "Hyman86@hotmail.com",
+        "firstName": "Ansel",
+        "lastName": "Becker",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11516796",
+        "tenantId": null
+      },
+      {
+        "reference": "9e162d27-7d18-4932-951b-563ab0ef4e6c",
+        "email": "Jaden.Mayer82@gmail.com",
+        "firstName": "Alicia",
+        "lastName": "Kshlerin-Lowe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/98875674",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "funding_provider": [
+      {
+        "id": "0605a53c-8d39-45ac-9afe-5202b51fc0eb",
+        "funding_amount": 81011,
+        "general_terms": "Flexible repayment options",
+        "real_estate_type": "Residential properties",
+        "created_at": "2023-08-12T05:14:43.106Z",
+        "updated_at": "2023-08-12T14:10:45.126Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3a363a37-df70-4573-b637-71808b10f308",
+        "funding_amount": 91004,
+        "general_terms": "Competitive interest rates",
+        "real_estate_type": "Commercial properties",
+        "created_at": "2023-08-12T15:47:57.674Z",
+        "updated_at": "2023-08-12T07:09:05.251Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0b7c6756-6357-481d-8278-632b4b948d32",
+        "funding_amount": 6294,
+        "general_terms": "No collateral required",
+        "real_estate_type": "Industrial properties",
+        "created_at": "2023-08-12T08:09:17.221Z",
+        "updated_at": "2023-08-11T20:22:34.795Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d3cb3952-6281-423a-a0a5-6f9e96f91d25",
+        "funding_amount": 28791,
+        "general_terms": "Quick approval process",
+        "real_estate_type": "Vacant land",
+        "created_at": "2023-08-12T16:37:52.722Z",
+        "updated_at": "2023-08-12T02:17:29.600Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2f69e3bc-56d3-48c5-8b67-2b1b81159fcb",
+        "funding_amount": 61088,
+        "general_terms": "Dedicated relationship manager",
+        "real_estate_type": "Mixed-use properties",
+        "created_at": "2023-08-11T19:51:50.534Z",
+        "updated_at": "2023-08-12T01:54:10.601Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "finance_partner": [
+      {
+        "id": "8575dc7c-d097-45b0-9afa-76240a8f5a8f",
+        "partnership_proposal": "Collaboration opportunity for mutual growth",
+        "created_at": "2023-08-12T05:33:09.680Z",
+        "updated_at": "2023-08-12T18:46:26.988Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7e86f90e-73e6-4c79-86c1-43ac61e48d9c",
+        "partnership_proposal": "Joint venture proposal for expanding market reach",
+        "created_at": "2023-08-12T07:49:27.166Z",
+        "updated_at": "2023-08-12T04:51:24.184Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "af1cfa3e-9ec7-49a1-a7e6-5a02eb32d03b",
+        "partnership_proposal": "Strategic alliance proposal for innovative solutions",
+        "created_at": "2023-08-12T12:03:01.970Z",
+        "updated_at": "2023-08-11T22:20:42.129Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9d081014-45c3-4f12-9e63-c79234397309",
+        "partnership_proposal": "Investment partnership proposal for long-term success",
+        "created_at": "2023-08-12T01:23:23.728Z",
+        "updated_at": "2023-08-12T12:30:45.785Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "71476db7-a02e-47d3-ad86-22c9332d85e6",
+        "partnership_proposal": "Co-development proposal for new product launch",
+        "created_at": "2023-08-11T19:49:41.063Z",
+        "updated_at": "2023-08-12T07:10:17.470Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "due_diligence": [
+      {
+        "id": "a787b9a7-d3ea-445b-bf20-39e08c05d91b",
+        "document_name": "Financial Statements",
+        "created_at": "2023-08-12T06:45:54.921Z",
+        "updated_at": "2023-08-12T13:04:54.185Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "53ad8835-b040-4ecf-8648-9c5409d57a27",
+        "document_name": "Legal Contracts",
+        "created_at": "2023-08-11T19:46:47.484Z",
+        "updated_at": "2023-08-12T05:18:55.145Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bef06ec4-4d4e-4dd2-95ef-1fea3b31f11a",
+        "document_name": "Market Research Reports",
+        "created_at": "2023-08-12T01:16:58.888Z",
+        "updated_at": "2023-08-12T06:20:12.156Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4c92b3ad-81e3-4b80-8bf5-a30ef0f5ea84",
+        "document_name": "Intellectual Property Documents",
+        "created_at": "2023-08-12T11:32:09.004Z",
+        "updated_at": "2023-08-11T22:05:01.787Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "660d9da9-0c03-41ec-b458-4916b0200169",
+        "document_name": "Risk Assessment Reports",
+        "created_at": "2023-08-12T15:02:22.205Z",
+        "updated_at": "2023-08-11T22:22:06.128Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "848c17c9-cbef-4973-9c73-d128a19598b6",
+        "email": "Frank_Fahey@hotmail.com",
+        "firstName": "Marge",
+        "lastName": "Bayer-Wiza",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/32.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "760d4369-de35-4cf3-b1ae-5f0fc255ab5a",
+        "email": "Gudrun_Schamberger@yahoo.com",
+        "firstName": "Mervin",
+        "lastName": "Runte",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/518.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5188c3fc-bac3-427b-ba10-7fa3fe3be146",
+        "email": "Gerry.Skiles43@yahoo.com",
+        "firstName": "Marietta",
+        "lastName": "Runolfsdottir",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/37613017",
+        "tenantId": null
+      },
+      {
+        "reference": "ef11eb52-1a5b-43c1-8464-dfe984069b77",
+        "email": "Maximillia.Huels@gmail.com",
+        "firstName": "Molly",
+        "lastName": "Stracke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22718652",
+        "tenantId": null
+      },
+      {
+        "reference": "844de946-b137-4081-baa2-26f754de9ce1",
+        "email": "Braeden_Strosin51@gmail.com",
+        "firstName": "Katelin",
+        "lastName": "Windler",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/958.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "funding_provider": [
+      {
+        "id": "09f07bab-f0a7-47fd-a204-e6c6e4d262d4",
+        "funding_amount": 17477,
+        "general_terms": "Flexible repayment options",
+        "real_estate_type": "Residential properties",
+        "created_at": "2023-08-12T13:23:14.238Z",
+        "updated_at": "2023-08-12T16:34:08.958Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cf9da851-ace8-402c-a314-2eeca1c2c038",
+        "funding_amount": 59593,
+        "general_terms": "Competitive interest rates",
+        "real_estate_type": "Commercial properties",
+        "created_at": "2023-08-11T21:48:45.235Z",
+        "updated_at": "2023-08-12T09:31:16.340Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b2f436d4-44cf-4620-9eb2-6aac22a6f8f0",
+        "funding_amount": 73496,
+        "general_terms": "No collateral required",
+        "real_estate_type": "Industrial properties",
+        "created_at": "2023-08-12T12:58:33.403Z",
+        "updated_at": "2023-08-12T11:51:07.582Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ce35b652-8b02-4cef-989d-83d294e346c2",
+        "funding_amount": 75497,
+        "general_terms": "Quick approval process",
+        "real_estate_type": "Vacant land",
+        "created_at": "2023-08-12T05:29:44.218Z",
+        "updated_at": "2023-08-12T00:52:42.662Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1c786139-d0ea-4685-9c28-729b0661231b",
+        "funding_amount": 59059,
+        "general_terms": "Dedicated relationship manager",
+        "real_estate_type": "Mixed-use properties",
+        "created_at": "2023-08-12T07:23:26.139Z",
+        "updated_at": "2023-08-12T01:43:26.667Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "finance_partner": [
+      {
+        "id": "2905a512-9cf1-474d-8026-3047da577e40",
+        "partnership_proposal": "Collaboration opportunity for mutual growth",
+        "created_at": "2023-08-11T22:59:20.608Z",
+        "updated_at": "2023-08-12T12:30:06.691Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9554e7a8-a457-4cc3-a494-784c70db83b5",
+        "partnership_proposal": "Joint venture proposal for expanding market reach",
+        "created_at": "2023-08-12T02:43:59.655Z",
+        "updated_at": "2023-08-12T01:05:10.270Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ec52518b-0c30-4f08-bfd7-e62c0a41dcbc",
+        "partnership_proposal": "Strategic alliance proposal for innovative solutions",
+        "created_at": "2023-08-12T11:49:13.727Z",
+        "updated_at": "2023-08-12T14:13:26.334Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "568b8946-b35a-4ac0-98b4-21fef2b6d31a",
+        "partnership_proposal": "Investment partnership proposal for long-term success",
+        "created_at": "2023-08-12T11:54:33.757Z",
+        "updated_at": "2023-08-11T21:57:15.467Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cf447111-d820-42c9-bf40-5c1670ee4a0e",
+        "partnership_proposal": "Co-development proposal for new product launch",
+        "created_at": "2023-08-12T03:43:52.490Z",
+        "updated_at": "2023-08-12T06:45:52.409Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "due_diligence": [
+      {
+        "id": "845096bc-93cc-4d2a-b2ed-76b58fd37ddc",
+        "document_name": "Financial Statements",
+        "created_at": "2023-08-12T18:37:04.968Z",
+        "updated_at": "2023-08-12T09:18:17.588Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b2977c7c-9b7e-4656-bfcd-a80274442b91",
+        "document_name": "Legal Contracts",
+        "created_at": "2023-08-12T14:22:16.946Z",
+        "updated_at": "2023-08-11T23:47:40.388Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1aaefc36-0858-4520-9d17-cef8a9aa1068",
+        "document_name": "Market Research Reports",
+        "created_at": "2023-08-11T21:20:51.206Z",
+        "updated_at": "2023-08-12T11:55:31.250Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "398f19d8-361a-4fdc-903b-0e6e89030a25",
+        "document_name": "Intellectual Property Documents",
+        "created_at": "2023-08-12T10:49:52.903Z",
+        "updated_at": "2023-08-12T05:09:20.070Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "98f7c363-4e20-4fd4-b619-dfc66402c6a1",
+        "document_name": "Risk Assessment Reports",
+        "created_at": "2023-08-12T04:14:33.528Z",
+        "updated_at": "2023-08-11T20:33:15.931Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "111d3dfd-0408-4cb6-b8e6-35c6ac8341ea",
+        "email": "Lew.Ondricka@gmail.com",
+        "firstName": "Danyka",
+        "lastName": "Stanton",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/30.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ffcd7e4c-6738-4fc0-907d-08dcd95891be",
+        "email": "Elwyn_Lubowitz14@gmail.com",
+        "firstName": "Derek",
+        "lastName": "Runte",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/92.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4d1caa17-7344-4fab-af84-9f2321b65b17",
+        "email": "Junior_Corwin@gmail.com",
+        "firstName": "Treva",
+        "lastName": "Russel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/684.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bd663c89-d491-45a4-afa9-8c2ee7762707",
+        "email": "Quinn.Hodkiewicz12@hotmail.com",
+        "firstName": "Dario",
+        "lastName": "Larson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/550.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8a811faf-d128-4026-9db4-cfa5df23952f",
+        "email": "Cecil.Morar@gmail.com",
+        "firstName": "Angelina",
+        "lastName": "Hickle",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49160964",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "funding_provider": [
+      {
+        "id": "17151b97-2ab3-491e-9cce-ce9d9bd604f1",
+        "funding_amount": 42552,
+        "general_terms": "Flexible repayment options",
+        "real_estate_type": "Residential properties",
+        "created_at": "2023-08-12T03:01:36.405Z",
+        "updated_at": "2023-08-12T00:48:50.255Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5a3c576c-39d9-4f0d-92e9-74ee5213a710",
+        "funding_amount": 67244,
+        "general_terms": "Competitive interest rates",
+        "real_estate_type": "Commercial properties",
+        "created_at": "2023-08-12T07:46:38.717Z",
+        "updated_at": "2023-08-12T18:34:04.893Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "22a3f010-e791-47b6-b036-dc5ca3d8c799",
+        "funding_amount": 35429,
+        "general_terms": "No collateral required",
+        "real_estate_type": "Industrial properties",
+        "created_at": "2023-08-12T07:14:19.612Z",
+        "updated_at": "2023-08-11T21:34:10.133Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c5fb8737-724e-4c15-b85e-cbe1768f5b84",
+        "funding_amount": 94197,
+        "general_terms": "Quick approval process",
+        "real_estate_type": "Vacant land",
+        "created_at": "2023-08-12T04:06:53.722Z",
+        "updated_at": "2023-08-12T08:17:45.479Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "967544d8-88c6-4f26-9ecb-f168543d6f0f",
+        "funding_amount": 66478,
+        "general_terms": "Dedicated relationship manager",
+        "real_estate_type": "Mixed-use properties",
+        "created_at": "2023-08-11T19:34:17.802Z",
+        "updated_at": "2023-08-11T21:08:32.594Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "finance_partner": [
+      {
+        "id": "c8ed2b9d-a52b-4f50-8ac6-59f9aef21efb",
+        "partnership_proposal": "Collaboration opportunity for mutual growth",
+        "created_at": "2023-08-12T14:59:37.674Z",
+        "updated_at": "2023-08-12T08:44:33.887Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b9871943-a97f-4bf4-8733-160df28957ca",
+        "partnership_proposal": "Joint venture proposal for expanding market reach",
+        "created_at": "2023-08-12T04:10:02.843Z",
+        "updated_at": "2023-08-12T09:22:16.327Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a6524939-0676-440b-a899-9b79aef57654",
+        "partnership_proposal": "Strategic alliance proposal for innovative solutions",
+        "created_at": "2023-08-12T09:01:20.098Z",
+        "updated_at": "2023-08-12T09:38:00.252Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4c9c3fc4-118d-41f4-b198-f16cc44073ed",
+        "partnership_proposal": "Investment partnership proposal for long-term success",
+        "created_at": "2023-08-12T15:40:17.692Z",
+        "updated_at": "2023-08-12T15:12:23.252Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "898bcc04-05e7-4b5d-9498-ddec00e24015",
+        "partnership_proposal": "Co-development proposal for new product launch",
+        "created_at": "2023-08-12T07:50:12.247Z",
+        "updated_at": "2023-08-12T10:34:03.385Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "due_diligence": [
+      {
+        "id": "21e3a864-c711-45cd-8444-b780a5c4e8b5",
+        "document_name": "Financial Statements",
+        "created_at": "2023-08-11T23:28:24.897Z",
+        "updated_at": "2023-08-12T06:07:29.954Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "556b3832-84d2-4261-934c-099448e92c7e",
+        "document_name": "Legal Contracts",
+        "created_at": "2023-08-12T07:27:37.003Z",
+        "updated_at": "2023-08-11T22:31:15.763Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "26554c63-6b95-4053-85e0-d75b07c61234",
+        "document_name": "Market Research Reports",
+        "created_at": "2023-08-12T13:02:36.239Z",
+        "updated_at": "2023-08-12T18:18:16.732Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "163c1b57-6f5b-483b-8678-73bc7add4389",
+        "document_name": "Risk Assessment Analysis",
+        "created_at": "2023-08-12T06:58:41.972Z",
+        "updated_at": "2023-08-12T04:36:32.649Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0fabe1b7-09a4-4cca-8f14-d3ba6fce4d87",
+        "document_name": "Intellectual Property Documentation",
+        "created_at": "2023-08-12T12:52:45.186Z",
+        "updated_at": "2023-08-12T14:33:43.526Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a1a7d799-ef69-44e9-9808-8c6349d5b80a",
+        "email": "Lafayette30@hotmail.com",
+        "firstName": "Arianna",
+        "lastName": "Little",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/995.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e2b9d9cf-5bca-4978-9edf-c05340082d82",
+        "email": "Martine.Baumbach@gmail.com",
+        "firstName": "Floyd",
+        "lastName": "Nader",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/551.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1cc6aa7c-8f3f-4c54-96e8-8c2cb15d1801",
+        "email": "Emmitt_Streich29@gmail.com",
+        "firstName": "Savanah",
+        "lastName": "Rogahn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "285c6102-d382-4146-9c76-bf4154ec5dee",
+        "email": "Lisette.Gerhold81@hotmail.com",
+        "firstName": "Phoebe",
+        "lastName": "Smitham",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12562623",
+        "tenantId": null
+      },
+      {
+        "reference": "56403d5d-9e19-4dfb-a600-4adc6a22036c",
+        "email": "Alexander_Rohan24@hotmail.com",
+        "firstName": "Isai",
+        "lastName": "Hansen",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57615505",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "funding_provider": [
+      {
+        "id": "13c757ae-b7ff-473a-98d8-c10ff6889701",
+        "funding_amount": 68417,
+        "general_terms": "Flexible repayment options",
+        "real_estate_type": "Residential properties",
+        "created_at": "2023-08-12T02:19:45.498Z",
+        "updated_at": "2023-08-12T08:04:21.700Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ff46bf1c-e472-47d7-9126-67bc10551d4f",
+        "funding_amount": 40789,
+        "general_terms": "Competitive interest rates",
+        "real_estate_type": "Commercial properties",
+        "created_at": "2023-08-12T11:19:51.788Z",
+        "updated_at": "2023-08-12T04:29:56.264Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "732698de-3b05-4ac5-9c8b-c00406d3b5ab",
+        "funding_amount": 42339,
+        "general_terms": "No collateral required",
+        "real_estate_type": "Industrial properties",
+        "created_at": "2023-08-12T13:29:14.116Z",
+        "updated_at": "2023-08-11T22:47:43.690Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eaa296ca-a2d8-481c-b1ec-a20f66cbc88c",
+        "funding_amount": 98561,
+        "general_terms": "Quick approval process",
+        "real_estate_type": "Vacant land",
+        "created_at": "2023-08-12T07:39:21.483Z",
+        "updated_at": "2023-08-12T01:22:12.154Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8150d93e-4f68-435e-ae81-11fd952fd789",
+        "funding_amount": 74560,
+        "general_terms": "Dedicated account manager",
+        "real_estate_type": "Mixed-use properties",
+        "created_at": "2023-08-12T00:07:01.473Z",
+        "updated_at": "2023-08-12T09:56:10.713Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "finance_partner": [
+      {
+        "id": "d45004d7-b13c-480f-b929-0e04c82125e7",
+        "partnership_proposal": "Collaboration opportunity for mutual growth",
+        "created_at": "2023-08-12T04:04:30.230Z",
+        "updated_at": "2023-08-12T15:43:54.344Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a04c49c2-1748-41d4-88db-c94635748549",
+        "partnership_proposal": "Joint venture proposal for expanding market reach",
+        "created_at": "2023-08-12T14:36:27.813Z",
+        "updated_at": "2023-08-12T09:39:17.359Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "449a59a4-efe3-4e9f-83eb-323fa98fa075",
+        "partnership_proposal": "Strategic alliance proposal for innovative solutions",
+        "created_at": "2023-08-12T06:39:18.290Z",
+        "updated_at": "2023-08-12T13:01:06.480Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "904a1e8f-25d1-4fa7-a46c-03d98afa0324",
+        "partnership_proposal": "Investment partnership proposal for long-term success",
+        "created_at": "2023-08-12T04:54:37.278Z",
+        "updated_at": "2023-08-12T09:48:08.977Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3c154584-acf8-4a8c-a98a-9d72515e395c",
+        "partnership_proposal": "Co-development proposal for new product launch",
+        "created_at": "2023-08-12T04:24:53.840Z",
+        "updated_at": "2023-08-12T02:02:14.320Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "due_diligence": [
+      {
+        "id": "19431ba1-20f4-442c-a5b3-87b681d916b6",
+        "document_name": "Financial Statements",
+        "created_at": "2023-08-12T04:19:02.729Z",
+        "updated_at": "2023-08-12T10:03:16.368Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bb5cf54c-60bf-4aad-8416-524e8e3d19ea",
+        "document_name": "Legal Contracts",
+        "created_at": "2023-08-12T13:42:12.749Z",
+        "updated_at": "2023-08-12T01:55:52.439Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "22d15ec0-c2cd-47c6-877c-02b1f344e6f6",
+        "document_name": "Market Research Reports",
+        "created_at": "2023-08-12T18:33:22.139Z",
+        "updated_at": "2023-08-12T09:43:22.699Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ce4400a3-1aff-439d-b379-84446b36c4b3",
+        "document_name": "Risk Assessment Analysis",
+        "created_at": "2023-08-12T13:17:06.479Z",
+        "updated_at": "2023-08-12T07:34:58.053Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d3535a71-13eb-45ce-9a33-fc6cc03177d6",
+        "document_name": "Intellectual Property Documentation",
+        "created_at": "2023-08-11T23:25:12.527Z",
+        "updated_at": "2023-08-12T13:45:12.527Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "73cc9e08-ae84-483b-a75e-230eb303da07",
+        "email": "Luella_Howe@gmail.com",
+        "firstName": "Gretchen",
+        "lastName": "Corwin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1223.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "75e82884-3d03-47fc-a851-93544a52891f",
+        "email": "Payton37@yahoo.com",
+        "firstName": "Jessie",
+        "lastName": "Wiza-Schmeler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58858646",
+        "tenantId": null
+      },
+      {
+        "reference": "f02c9e0b-f416-4595-ab8b-9d3519955cba",
+        "email": "Gunner.Schaefer@gmail.com",
+        "firstName": "Orlando",
+        "lastName": "O'Conner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/995.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c349d147-db99-456d-b79e-0265d1242bd6",
+        "email": "Burley.Nikolaus37@yahoo.com",
+        "firstName": "Vilma",
+        "lastName": "Schaden",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/336.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "de8e89d8-5ceb-4ebc-81f3-c139c2af4771",
+        "email": "Felicia.Orn@gmail.com",
+        "firstName": "Trey",
+        "lastName": "Anderson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5435267",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "funding_provider": [
+      {
+        "id": "56cc7065-8a6e-403a-93bb-01a071142520",
+        "funding_amount": 15963,
+        "general_terms": "Flexible repayment options",
+        "real_estate_type": "Residential properties",
+        "created_at": "2023-08-12T19:01:00.694Z",
+        "updated_at": "2023-08-11T22:19:23.275Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5d204695-511c-4ed3-8547-52cb6b51eec3",
+        "funding_amount": 17533,
+        "general_terms": "Competitive interest rates",
+        "real_estate_type": "Commercial properties",
+        "created_at": "2023-08-12T02:28:32.399Z",
+        "updated_at": "2023-08-12T04:39:08.084Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9b02dc7a-77c4-4b3a-8779-8f49d74d9e55",
+        "funding_amount": 85868,
+        "general_terms": "No collateral required",
+        "real_estate_type": "Industrial properties",
+        "created_at": "2023-08-12T03:14:54.072Z",
+        "updated_at": "2023-08-11T22:21:12.341Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5198fb3c-6826-4b1f-8e74-07af6c8862ba",
+        "funding_amount": 83808,
+        "general_terms": "Quick approval process",
+        "real_estate_type": "Vacant land",
+        "created_at": "2023-08-12T18:32:38.821Z",
+        "updated_at": "2023-08-12T11:08:39.542Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bdb178d9-a864-437d-93bd-a9f31930f403",
+        "funding_amount": 33635,
+        "general_terms": "Dedicated relationship manager",
+        "real_estate_type": "Mixed-use properties",
+        "created_at": "2023-08-12T06:31:37.672Z",
+        "updated_at": "2023-08-11T22:56:51.044Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "finance_partner": [
+      {
+        "id": "a9749f58-bb1b-495d-a599-03524c1c036a",
+        "partnership_proposal": "Collaboration opportunity for mutual growth",
+        "created_at": "2023-08-12T11:31:00.787Z",
+        "updated_at": "2023-08-12T07:04:14.736Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7e8719ed-b495-4072-a329-5e3be97c583b",
+        "partnership_proposal": "Joint venture to expand market reach",
+        "created_at": "2023-08-12T05:34:38.040Z",
+        "updated_at": "2023-08-12T06:21:25.673Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aa9c92bc-c475-4310-b0ab-5a1db1531ed3",
+        "partnership_proposal": "Strategic alliance for innovative solutions",
+        "created_at": "2023-08-12T15:25:35.411Z",
+        "updated_at": "2023-08-12T00:42:41.936Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eb121515-b226-4a86-998c-6f1877b59cdc",
+        "partnership_proposal": "Investment proposal for business expansion",
+        "created_at": "2023-08-12T15:42:08.967Z",
+        "updated_at": "2023-08-12T05:14:31.606Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "896c2f6d-f6fb-4a7d-8331-59fadf6b26e9",
+        "partnership_proposal": "Partnership offer for shared success",
+        "created_at": "2023-08-11T22:30:58.385Z",
+        "updated_at": "2023-08-12T08:04:59.412Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "due_diligence": [
+      {
+        "id": "5665f4f6-10dc-4a60-bb4a-e730d7169356",
+        "document_name": "Financial Statements",
+        "created_at": "2023-08-12T06:55:39.682Z",
+        "updated_at": "2023-08-12T12:19:37.368Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c42f0aed-e894-4287-88d7-a6b39145235a",
+        "document_name": "Legal Contracts",
+        "created_at": "2023-08-12T18:26:02.049Z",
+        "updated_at": "2023-08-12T02:39:59.706Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "62eec7d6-f4f1-45ce-9c87-44fd8289b252",
+        "document_name": "Market Research Analysis",
+        "created_at": "2023-08-11T23:24:12.461Z",
+        "updated_at": "2023-08-12T17:28:35.396Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5815dbc0-18e4-4250-b41e-2b47696eb3e1",
+        "document_name": "Risk Assessment Report",
+        "created_at": "2023-08-12T01:34:37.474Z",
+        "updated_at": "2023-08-12T08:01:49.079Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cac979e8-f026-46cd-b3bc-5eaa19dfe11b",
+        "document_name": "Operational Performance Metrics",
+        "created_at": "2023-08-12T12:16:47.620Z",
+        "updated_at": "2023-08-12T03:17:46.615Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8abb8d85-a807-447a-b011-f194c2aa1237",
+        "email": "Maxine.Hintz13@yahoo.com",
+        "firstName": "Howell",
+        "lastName": "Kovacek",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/650.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bea40e23-07b0-4883-a13b-fcad368d4e5d",
+        "email": "Frederik.Waelchi@hotmail.com",
+        "firstName": "Mellie",
+        "lastName": "Champlin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1089.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "617da25f-4221-4ffb-b0e0-ca44a1569d3b",
+        "email": "Vincent94@hotmail.com",
+        "firstName": "Luella",
+        "lastName": "Padberg",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17632380",
+        "tenantId": null
+      },
+      {
+        "reference": "ebc71bc4-fb6a-44a3-ad9e-903da1cccb1f",
+        "email": "Maureen_Windler@gmail.com",
+        "firstName": "Brielle",
+        "lastName": "Larkin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83233843",
+        "tenantId": null
+      },
+      {
+        "reference": "aac003a7-eccf-4994-ab44-5a74c118626b",
+        "email": "Maya_Emard70@gmail.com",
+        "firstName": "Bridget",
+        "lastName": "Kuphal",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/436.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "funding_provider": [
+      {
+        "id": "a1208677-30e6-4ba0-bd39-4ec72cbf221d",
+        "funding_amount": 17129,
+        "general_terms": "Flexible repayment options",
+        "real_estate_type": "Residential properties",
+        "created_at": "2023-08-11T19:30:22.564Z",
+        "updated_at": "2023-08-12T12:49:31.557Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "df1f0a43-8cf6-449e-a1df-75ec10bd799f",
+        "funding_amount": 5450,
+        "general_terms": "Competitive interest rates",
+        "real_estate_type": "Commercial properties",
+        "created_at": "2023-08-11T20:51:07.707Z",
+        "updated_at": "2023-08-11T19:17:58.073Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "464908bb-a410-4a37-add6-c7dd5ec43fbb",
+        "funding_amount": 50343,
+        "general_terms": "No collateral required",
+        "real_estate_type": "Industrial properties",
+        "created_at": "2023-08-12T08:10:19.010Z",
+        "updated_at": "2023-08-12T05:11:58.146Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2214bfd3-1201-4221-a6f1-4be8b17ce355",
+        "funding_amount": 60434,
+        "general_terms": "Quick approval process",
+        "real_estate_type": "Vacant land",
+        "created_at": "2023-08-11T21:15:35.702Z",
+        "updated_at": "2023-08-11T22:55:28.779Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6ec34948-04e4-46e0-bce7-950d9e45241f",
+        "funding_amount": 22850,
+        "general_terms": "Dedicated relationship manager",
+        "real_estate_type": "Mixed-use properties",
+        "created_at": "2023-08-11T19:57:04.494Z",
+        "updated_at": "2023-08-12T08:37:52.128Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "finance_partner": [
+      {
+        "id": "4d4233bb-8491-4d99-aa51-8ac8d6db387a",
+        "partnership_proposal": "Collaboration opportunity for mutual growth",
+        "created_at": "2023-08-11T19:37:20.263Z",
+        "updated_at": "2023-08-12T03:57:11.357Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c17e1b43-4693-4f7c-9945-a37d4837eb35",
+        "partnership_proposal": "Joint venture to expand market reach",
+        "created_at": "2023-08-11T23:19:57.532Z",
+        "updated_at": "2023-08-12T00:21:17.477Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0241bef6-d609-4a4b-8bb3-09204018ed08",
+        "partnership_proposal": "Strategic alliance for innovative solutions",
+        "created_at": "2023-08-12T17:12:39.724Z",
+        "updated_at": "2023-08-12T00:47:50.776Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6188326b-4d78-445a-a214-9b0552095519",
+        "partnership_proposal": "Investment proposal for business expansion",
+        "created_at": "2023-08-12T03:28:11.954Z",
+        "updated_at": "2023-08-12T11:09:22.764Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "53ac053e-8697-456b-9857-44aff8676d14",
+        "partnership_proposal": "Partnership offer for shared success",
+        "created_at": "2023-08-12T11:28:02.740Z",
+        "updated_at": "2023-08-12T18:52:45.375Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "due_diligence": [
+      {
+        "id": "02f85156-02df-4dd0-aee3-8563aca7c5cf",
+        "document_name": "Financial Statements",
+        "created_at": "2023-08-12T16:15:03.593Z",
+        "updated_at": "2023-08-12T03:06:51.096Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0e3fb424-8fd8-439a-9f10-d92bc54a997d",
+        "document_name": "Legal Contracts",
+        "created_at": "2023-08-11T21:13:36.069Z",
+        "updated_at": "2023-08-12T18:35:43.560Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "07f84a76-cef8-4bcf-a919-302e9c58d471",
+        "document_name": "Market Research Analysis",
+        "created_at": "2023-08-12T09:04:50.009Z",
+        "updated_at": "2023-08-12T04:20:03.058Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7740135b-f739-4579-bcbf-cfc4f3a139eb",
+        "document_name": "Risk Assessment Report",
+        "created_at": "2023-08-12T16:11:59.276Z",
+        "updated_at": "2023-08-12T03:10:12.822Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "620970ab-60a2-4a31-aeb1-69fa86d2ab85",
+        "document_name": "Operational Performance Metrics",
+        "created_at": "2023-08-11T19:32:11.165Z",
+        "updated_at": "2023-08-12T08:42:23.797Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "06992374-b6fb-4784-8c52-23e5c9307e9b",
+        "email": "Jo_Haley30@yahoo.com",
+        "firstName": "Carlie",
+        "lastName": "Fadel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/92178469",
+        "tenantId": null
+      },
+      {
+        "reference": "54c3698a-aa01-4a4b-bb2b-8d3b40f21ef6",
+        "email": "Isobel50@gmail.com",
+        "firstName": "Rossie",
+        "lastName": "Bailey",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/14525121",
+        "tenantId": null
+      },
+      {
+        "reference": "72692349-7db9-4389-add8-002d2588d5bb",
+        "email": "Isai.Torphy69@gmail.com",
+        "firstName": "Kaela",
+        "lastName": "Gerhold",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/15267700",
+        "tenantId": null
+      },
+      {
+        "reference": "4bd83480-0309-4347-bd89-d1ba28ee7f6c",
+        "email": "Riley.Ortiz@yahoo.com",
+        "firstName": "Audie",
+        "lastName": "Kiehn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/865.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "54189293-5d96-442b-8dc0-3dc9db89eca2",
+        "email": "Toby46@gmail.com",
+        "firstName": "Mayra",
+        "lastName": "Konopelski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/4424910",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "funding_provider": [
+      {
+        "id": "13a841a1-c47d-4aa5-ba34-ea700969f82b",
+        "funding_amount": 41472,
+        "general_terms": "Flexible repayment options",
+        "real_estate_type": "Residential properties",
+        "created_at": "2023-08-12T00:26:07.874Z",
+        "updated_at": "2023-08-12T12:04:07.349Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "774424c4-e6e1-4b05-82b6-f7232cee7bfc",
+        "funding_amount": 7063,
+        "general_terms": "Competitive interest rates",
+        "real_estate_type": "Commercial properties",
+        "created_at": "2023-08-12T00:08:32.565Z",
+        "updated_at": "2023-08-11T21:34:51.121Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6092c3c5-3740-4c57-857a-123bd70cf9a0",
+        "funding_amount": 99693,
+        "general_terms": "No collateral required",
+        "real_estate_type": "Industrial properties",
+        "created_at": "2023-08-11T23:20:00.288Z",
+        "updated_at": "2023-08-12T03:37:03.637Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "90a684e6-48b0-4851-9474-bbc9be3a3dae",
+        "funding_amount": 81660,
+        "general_terms": "Quick approval process",
+        "real_estate_type": "Vacant land",
+        "created_at": "2023-08-12T06:06:03.889Z",
+        "updated_at": "2023-08-12T14:03:12.583Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6a720491-a5f1-4616-b5fb-c0ef47771e19",
+        "funding_amount": 47482,
+        "general_terms": "Dedicated relationship manager",
+        "real_estate_type": "Mixed-use properties",
+        "created_at": "2023-08-12T03:29:17.312Z",
+        "updated_at": "2023-08-12T11:09:16.381Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "finance_partner": [
+      {
+        "id": "097c7c19-7bdd-464c-a90e-eadfa6440615",
+        "partnership_proposal": "Collaboration opportunity for mutual growth",
+        "created_at": "2023-08-11T19:11:54.598Z",
+        "updated_at": "2023-08-12T03:33:17.585Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "54027ab1-9e3a-419b-9fa2-651ef5ba652b",
+        "partnership_proposal": "Joint venture proposal for expanding market reach",
+        "created_at": "2023-08-12T03:30:43.133Z",
+        "updated_at": "2023-08-12T19:06:41.211Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "812fadbe-0b88-409a-9efe-5523327fe095",
+        "partnership_proposal": "Strategic alliance proposal for innovative solutions",
+        "created_at": "2023-08-11T23:27:24.733Z",
+        "updated_at": "2023-08-12T06:55:37.716Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "61f6a06e-90dc-4e4c-81d7-8ec5e3ef34f2",
+        "partnership_proposal": "Investment partnership proposal for long-term success",
+        "created_at": "2023-08-12T10:44:22.628Z",
+        "updated_at": "2023-08-11T20:04:15.215Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dbeb7616-03cd-4bbd-8143-314c46df10ed",
+        "partnership_proposal": "Co-development proposal for new product launch",
+        "created_at": "2023-08-12T13:31:33.244Z",
+        "updated_at": "2023-08-12T02:01:57.860Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "due_diligence": [
+      {
+        "id": "a2cc75ff-7db6-4bba-9fe8-f75bcdb101b3",
+        "document_name": "Financial Statements",
+        "created_at": "2023-08-11T19:12:50.643Z",
+        "updated_at": "2023-08-12T15:18:48.611Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3405600d-0c06-474a-9b6b-e80248e304e3",
+        "document_name": "Legal Contracts",
+        "created_at": "2023-08-11T19:17:38.999Z",
+        "updated_at": "2023-08-12T14:08:41.473Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9cc81119-4112-4aa5-9c0a-78c0ead313aa",
+        "document_name": "Market Research Reports",
+        "created_at": "2023-08-11T21:55:50.979Z",
+        "updated_at": "2023-08-12T15:24:46.035Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0e4d7136-d9ad-4678-b7ea-cf2aaee4908a",
+        "document_name": "Intellectual Property Documents",
+        "created_at": "2023-08-12T05:27:55.460Z",
+        "updated_at": "2023-08-12T00:56:52.409Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5977d35e-d027-4ea8-b875-a635c8632e64",
+        "document_name": "Risk Assessment Reports",
+        "created_at": "2023-08-12T13:52:30.715Z",
+        "updated_at": "2023-08-12T11:00:27.243Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "aa110c32-b54e-4140-9afd-d1f7ffd18de9",
+        "email": "Dagmar.Larkin45@yahoo.com",
+        "firstName": "Sienna",
+        "lastName": "Sawayn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17695992",
+        "tenantId": null
+      },
+      {
+        "reference": "706c6718-3237-4072-87dc-d69b301c92b8",
+        "email": "Lucius98@yahoo.com",
+        "firstName": "Richie",
+        "lastName": "Hagenes",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65665643",
+        "tenantId": null
+      },
+      {
+        "reference": "0065f021-2d82-4256-8160-5331df37e852",
+        "email": "Lois50@hotmail.com",
+        "firstName": "Merritt",
+        "lastName": "McKenzie",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/627.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c6df9a4d-258a-426f-b1e8-74e635b62cce",
+        "email": "Catherine93@yahoo.com",
+        "firstName": "Alta",
+        "lastName": "Bogan",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75576988",
+        "tenantId": null
+      },
+      {
+        "reference": "2d76c2fa-d285-4da5-8c36-4adb12f95a16",
+        "email": "Hailee.Tromp75@yahoo.com",
+        "firstName": "Kirsten",
+        "lastName": "Thompson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2169908",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "funding_provider": [
+      {
+        "id": "8ed16a95-dbf0-4124-99d8-6a37c4cc581f",
+        "funding_amount": 80980,
+        "general_terms": "Flexible repayment options",
+        "real_estate_type": "Residential properties",
+        "created_at": "2023-08-12T08:41:56.453Z",
+        "updated_at": "2023-08-12T10:50:18.306Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ed1e6cf6-5904-42d7-a2ea-252612c675a4",
+        "funding_amount": 60629,
+        "general_terms": "Competitive interest rates",
+        "real_estate_type": "Commercial properties",
+        "created_at": "2023-08-12T18:29:07.992Z",
+        "updated_at": "2023-08-11T23:00:45.924Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ff41028d-639e-44f9-8880-f48b40c33bf8",
+        "funding_amount": 67934,
+        "general_terms": "Collateral-free loans",
+        "real_estate_type": "Industrial properties",
+        "created_at": "2023-08-12T05:31:10.200Z",
+        "updated_at": "2023-08-12T10:04:20.538Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "407f1a74-267c-4636-aca2-194c57511dcf",
+        "funding_amount": 11158,
+        "general_terms": "Quick approval process",
+        "real_estate_type": "Vacant land",
+        "created_at": "2023-08-12T14:46:36.438Z",
+        "updated_at": "2023-08-11T22:58:27.510Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1bfe7172-220b-4a9c-820b-9d4bf91f5ab8",
+        "funding_amount": 93380,
+        "general_terms": "Dedicated relationship manager",
+        "real_estate_type": "Mixed-use properties",
+        "created_at": "2023-08-12T08:17:09.788Z",
+        "updated_at": "2023-08-12T05:56:18.096Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "finance_partner": [
+      {
+        "id": "70254c84-54f3-4e72-8a36-4b5d5a8504b7",
+        "partnership_proposal": "Joint venture for a new product launch",
+        "created_at": "2023-08-12T17:30:16.285Z",
+        "updated_at": "2023-08-11T20:07:27.408Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1caa4d92-0c4c-485f-b3b0-1eaf43aa45d1",
+        "partnership_proposal": "Co-investment opportunity in a promising startup",
+        "created_at": "2023-08-12T18:30:44.222Z",
+        "updated_at": "2023-08-12T16:30:16.705Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0a306d4a-83dc-4a6c-8c5b-41beec186af5",
+        "partnership_proposal": "Strategic alliance to expand market reach",
+        "created_at": "2023-08-11T21:39:10.336Z",
+        "updated_at": "2023-08-12T04:04:07.869Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e3b35d44-385b-4236-a846-dc749c3f13ca",
+        "partnership_proposal": "Collaboration on a research project",
+        "created_at": "2023-08-11T23:41:09.554Z",
+        "updated_at": "2023-08-12T08:57:48.449Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "722b4cef-a109-445d-8572-ed852225404a",
+        "partnership_proposal": "Investment in a renewable energy project",
+        "created_at": "2023-08-12T13:27:52.172Z",
+        "updated_at": "2023-08-12T15:59:46.931Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "due_diligence": [
+      {
+        "id": "1e7b1778-3592-4833-bdff-3f9944eb4035",
+        "document_name": "Financial statements",
+        "created_at": "2023-08-12T07:25:29.947Z",
+        "updated_at": "2023-08-12T18:36:02.216Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ee5027ec-a4cb-438b-abee-7a0d6e0604b5",
+        "document_name": "Legal contracts",
+        "created_at": "2023-08-11T21:58:37.221Z",
+        "updated_at": "2023-08-12T08:38:39.903Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "902d53ce-0b1a-417f-b666-556c2cfc6f5a",
+        "document_name": "Market research reports",
+        "created_at": "2023-08-12T04:10:13.125Z",
+        "updated_at": "2023-08-12T08:42:25.595Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eba5c5c2-4065-4fff-81ca-c7965cf72857",
+        "document_name": "Environmental impact assessment",
+        "created_at": "2023-08-12T18:43:58.888Z",
+        "updated_at": "2023-08-12T18:13:49.772Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "43475341-bcec-4314-b296-8797e9df3661",
+        "document_name": "Due diligence checklist",
+        "created_at": "2023-08-12T10:46:56.374Z",
+        "updated_at": "2023-08-12T01:57:07.028Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "7fbb2ae8-c9cd-4805-ba91-8a0004cf91a4",
+        "email": "Tracy_Murazik@hotmail.com",
+        "firstName": "Jessie",
+        "lastName": "O'Conner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/907.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0e2e536e-b2f1-40e7-b2d2-e8c36cb2606d",
+        "email": "Barbara_McKenzie@yahoo.com",
+        "firstName": "Paxton",
+        "lastName": "Hoeger",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45440831",
+        "tenantId": null
+      },
+      {
+        "reference": "9873b78a-7dff-42b1-bb4c-2b57fe14a5ff",
+        "email": "Arnulfo27@gmail.com",
+        "firstName": "Camden",
+        "lastName": "Johns",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1101.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "55468471-991b-4800-8cf6-d2b3060c4355",
+        "email": "Broderick19@hotmail.com",
+        "firstName": "Jaycee",
+        "lastName": "Terry",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/94271295",
+        "tenantId": null
+      },
+      {
+        "reference": "dcc1659c-e0ae-4eee-9ae2-83ec97bfd82c",
+        "email": "Margarette.Johnson81@hotmail.com",
+        "firstName": "Magali",
+        "lastName": "Franecki",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/377.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "funding_provider": [
+      {
+        "id": "35983ab9-664a-404e-88c9-433e229bfe76",
+        "funding_amount": 79331,
+        "general_terms": "Flexible repayment options",
+        "real_estate_type": "Residential properties",
+        "created_at": "2023-08-12T12:42:03.622Z",
+        "updated_at": "2023-08-12T06:42:08.079Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "78d5167a-36ca-4d43-a40b-00b65f63b3f6",
+        "funding_amount": 26563,
+        "general_terms": "Competitive interest rates",
+        "real_estate_type": "Commercial properties",
+        "created_at": "2023-08-12T13:58:11.746Z",
+        "updated_at": "2023-08-11T23:04:24.137Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b2d7998b-5ea0-40ee-b53f-6411b5e15eda",
+        "funding_amount": 5776,
+        "general_terms": "No collateral required",
+        "real_estate_type": "Industrial properties",
+        "created_at": "2023-08-12T14:18:55.515Z",
+        "updated_at": "2023-08-12T01:41:39.879Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "483b60db-296c-497d-808a-af4bc7afc4fc",
+        "funding_amount": 57001,
+        "general_terms": "Quick approval process",
+        "real_estate_type": "Vacant land",
+        "created_at": "2023-08-12T03:59:00.700Z",
+        "updated_at": "2023-08-12T16:59:06.797Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3451db20-7b55-450c-8184-99992ae95233",
+        "funding_amount": 31366,
+        "general_terms": "Dedicated relationship manager",
+        "real_estate_type": "Mixed-use properties",
+        "created_at": "2023-08-12T08:23:12.917Z",
+        "updated_at": "2023-08-11T22:19:02.601Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "finance_partner": [
+      {
+        "id": "450209e2-f886-48f2-9d59-aaddcfb78ecc",
+        "partnership_proposal": "Collaboration opportunity for mutual growth",
+        "created_at": "2023-08-12T04:32:06.912Z",
+        "updated_at": "2023-08-12T01:19:08.584Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3a371562-d331-49df-82e3-9b3b5e18ae23",
+        "partnership_proposal": "Joint venture proposal for expanding market reach",
+        "created_at": "2023-08-12T16:25:59.352Z",
+        "updated_at": "2023-08-12T05:49:23.336Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b01f25be-0c20-4262-8ca8-1fb5c40d6331",
+        "partnership_proposal": "Strategic alliance proposal for innovative solutions",
+        "created_at": "2023-08-11T19:50:05.231Z",
+        "updated_at": "2023-08-12T19:06:10.595Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ee9d7789-d5f5-432b-adda-939e07ab36ed",
+        "partnership_proposal": "Investment partnership proposal for long-term success",
+        "created_at": "2023-08-11T19:21:38.852Z",
+        "updated_at": "2023-08-12T02:00:08.412Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "94ca79c8-5d1c-45b2-939a-ec13df14be81",
+        "partnership_proposal": "Co-development proposal for new product launch",
+        "created_at": "2023-08-11T19:30:57.097Z",
+        "updated_at": "2023-08-12T06:24:35.075Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "due_diligence": [
+      {
+        "id": "5b74c96b-79d8-4c21-999b-abecaed45e96",
+        "document_name": "Financial Statements",
+        "created_at": "2023-08-12T16:38:34.936Z",
+        "updated_at": "2023-08-12T01:35:57.309Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6a92d768-6e9c-464a-a2b2-89729f28946d",
+        "document_name": "Legal Contracts",
+        "created_at": "2023-08-11T21:24:15.289Z",
+        "updated_at": "2023-08-11T19:41:36.912Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "21dcd6e7-1b15-4332-a130-cf43a4d3c329",
+        "document_name": "Market Research Reports",
+        "created_at": "2023-08-12T08:01:22.950Z",
+        "updated_at": "2023-08-12T16:33:55.457Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b3f89c6f-6b17-4c61-a5f1-66746f027071",
+        "document_name": "Intellectual Property Documents",
+        "created_at": "2023-08-12T18:47:00.712Z",
+        "updated_at": "2023-08-12T18:44:59.343Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0d6d72dd-1f2a-4448-9f74-6762d77b91ce",
+        "document_name": "Risk Assessment Reports",
+        "created_at": "2023-08-12T17:23:45.752Z",
+        "updated_at": "2023-08-11T19:09:59.823Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "87b41cb6-775a-47d2-bdcd-ffd3a1008a79",
+        "email": "Margret_Keeling@gmail.com",
+        "firstName": "Maud",
+        "lastName": "Bosco",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8278430",
+        "tenantId": null
+      },
+      {
+        "reference": "d301d653-acd7-402a-b411-8fc00310326b",
+        "email": "Haven.Kemmer@gmail.com",
+        "firstName": "Jeffery",
+        "lastName": "Kassulke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/825.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5c43720d-8fd4-4d96-8fdf-f6bbd8220e26",
+        "email": "Werner.Sauer55@gmail.com",
+        "firstName": "Karelle",
+        "lastName": "Price",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45449439",
+        "tenantId": null
+      },
+      {
+        "reference": "c0d93ff5-296b-4278-bfa3-4aba796cb3a5",
+        "email": "Reba_Kemmer@yahoo.com",
+        "firstName": "Daisha",
+        "lastName": "Kuphal",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/87323504",
+        "tenantId": null
+      },
+      {
+        "reference": "08aeb065-c5d8-41bd-a17d-bad9f9c04f17",
+        "email": "Khalid_Cummings10@yahoo.com",
+        "firstName": "Lourdes",
+        "lastName": "Ziemann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43286514",
+        "tenantId": null
+      }
+    ]
+  }
+]
